@@ -29,6 +29,7 @@ const queries = [
 ];
 
 module.exports = {
+  pathPrefix: `/pb0695`,
   siteMetadata: {
     title: config.siteTitle,
     description: config.siteDescription,
